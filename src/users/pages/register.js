@@ -17,7 +17,7 @@ const Register = () => {
     setError(null);
     try {
       const response = await fetch(
-        "https://backend-nine-liard-28.vercel.app/api/users/register",
+        "https://backend-cv5pyz7l0-mihirbuddys-projects.vercel.app/api/users/register",
         {
           //const response = await fetch("http://localhost:5000/api/users/login", {
           method: "POST",
