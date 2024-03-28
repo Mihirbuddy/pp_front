@@ -38,7 +38,7 @@ const UserLocations = () => {
     const sendRequest = async () => {
       try {
         const response = await fetch(
-          `https://backend-cv5pyz7l0-mihirbuddys-projects.vercel.app/api/locations/users/${userid}`
+          `https://backend-delta-dusky.vercel.app/api/locations/users/${userid}`
           //  `http://localhost:5000/api/locations/users/${userid}`
         );
         const responseData = await response.json();
