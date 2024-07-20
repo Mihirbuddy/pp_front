@@ -6,8 +6,8 @@
     max-width: 40rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.30);
     border-radius: 6px;
-    color:white;
-    background:#7A316F;
+    color:black;
+    background:#F7C5CC;
 }
 
 form-control {
@@ -45,12 +45,12 @@ form-control {
   .form-control input:focus,
   .form-control textarea:focus {
     outline: none;
-    background: #ebebeb;
+    background: #E7E8D1;
     border-color: #510077;
   }
   
 .form-control button{
-background-color: #CD6688;
+background-color: #0dd6c2bd;
 border: 1px solid white;
 padding:0.5rem 1rem;
 border-radius: 10px; 
