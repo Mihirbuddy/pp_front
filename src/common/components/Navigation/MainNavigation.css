@@ -1,17 +1,17 @@
 
   
   .mainnav-title {
-    color: #AED8CC;
+    color: black;
   }
 
   
   .mainnav-title a {
     text-decoration: none;
     transition: color .2s ease-out;
-    color: #AED8CC;;
+    color: black;
   }
   .mainnav-title a:hover {
-    color: white;
+    color: purple;
   }
 
   
